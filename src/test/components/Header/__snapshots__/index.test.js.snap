@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> should be a component rendered by title and subtitle 1`] = `
+<header>
+  <h1>
+    Bienvenido!
+  </h1>
+  <h2>
+    Al testing con Enzyme
+  </h2>
+</header>
+`;
