@@ -1,0 +1,31 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Counter /> component should be rendered 1`] = `
+<section>
+  <h1>
+    Conter
+  </h1>
+  <h3>
+    0
+  </h3>
+  <article>
+    <div>
+      <button
+        onClick={[Function]}
+      >
+        -
+      </button>
+      <button
+        onClick={[Function]}
+      >
+        +
+      </button>
+    </div>
+    <button
+      onClick={[Function]}
+    >
+      Reset
+    </button>
+  </article>
+</section>
+`;
